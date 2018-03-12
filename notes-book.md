@@ -65,3 +65,72 @@ The revision of the estimate constitutes the correction of a error
 Changes in accounting estimates are accounted for prospectively. When a company revises a previous estimates, prior financial statements are not revised. The company merely incorporates the new estimate from then on. A disclosure note should describe the effect of a change in estimate on income from continuing operations, net income, and related per share amounts for the current period.
 
 # Illustration 20-7
+
+Universal semiconductors
+
+1. estimates warranty expense as 2% of sales
+2. After a review in 2018. determined that 3% of sales is a more realistic estimate of its payment experience
+3. sales in 2018 is $300m
+4. effective income tax rate is 40%
+5. No account balances are adjusted
+6. Cumulative net effect is not reported in current income
+
+dr. Warranty expense | 9 | -
+  cr. Warranty liability | - | 9
+
+The after tax effect of the change in estimate is $1.8m (`$300m * (3%-2%) = 3m` less `40% of $3m`)
+
+The effect is described in a disclosure note to the financial statements as follows.
+
+# Change in Depreciation, Amortization, and Depletion Methods
+
+If the asset is a building, equipment, or other tangible asset the allocation process is called `depreciation`
+
+It is referred to as `amortization` if an intangible asset and `depletion` if a natural resource.
+
+When a company changes the way it depreciates an asset, the change would be made to reflect a change in
+
+1. Estimated future benefits from the asset
+2. The pattern of receiving those benefits
+3. Company's knowledge about those benefits
+
+
+Even though the company is changing its depreciation method, it is doing so to reflect changes in estimates of future benefits.
+
+# Illustration 20-8 Change in depreciation methods
+
+Universal Semiconducts switched from the Sum of Years Digits depreciation to straight line depreciation in 2018. The change affects its precision equipment purchased at the beginning of 2016 at a cost of $63m. The machinery has an expected useful life of five years and a estimated residual value of $3m.
+
+Depreciation prior to change.
+
+SYD Depreciation | $ in millions.
+2016 depreciation | $20 | ($60 x 5/15)
+2017 depreciation | $16 | ($60 x 4/15)
+  Accumulated depreciation | $36
+
+A change in depreciation method is considered a change in accounting estimate resulting from a cahnge in accounting principle. So the compaony reports the change prospectively, previous financial statements are not revised. The undepreciated cost remaining at the time of the change is depreciated straight-line over the remaining useful life.
+
+Calculation of straight-line depreciation | $ in millions
+Asset's cost | $63
+Accumulated depreciation to date (calculated above) | (36)
+Undepreciated cost, Jan 1, 2018 | $27
+Estimated residual value | (3)
+To be depreciated over remaining 3 years | $24
+- | 3 Years
+Annual straight-line depreciation 2018-2020 | $8
+
+Adjusting entry ( 2018, 2019, and 2020 depreciation) | $ in millions
+Depreciation expense (calculated above) | 8 | -
+  accumulated depreciation | - | 8
+
+# Illustration 20-9 Change in Depreciation Method for Newly Acquired Assets
+
+It's not easy to distinguish between a change in principle and a change in estimate
+
+For example...
+
+```
+If a company begins to capitalize rather than expense the cost of tools because their befeits beyond one year become apparent.
+```
+
+The change could be construed as either a change in principle or a cahnge in the estimated life of the asset. 
