@@ -4,6 +4,7 @@ The amount of the revision is the cumulative effect of the change of years prior
 
 Illustration 20-3B
 
+```
 | - | - | $ in millions | Common Stock | APIC | Retained Earnings | Total S/E
 
 Jan 1, 2016 | - | - | $880
@@ -16,6 +17,7 @@ December 31, 2017 | - | - | $1,187
   net income (using FIFO) | - | - | $210
   dividends | - | - | $(40)
 December 31, 2018 | - | - | $1,357
+```
 
 # Adjust accoaunts for the change
 
@@ -29,10 +31,11 @@ Retained earnings must be increased by 60% of that amount due to income taxes.
 
 # Journal entry to record change in accounting principle
 
+```
 dr. Inventory (Additional inventory if FIFO had been used) | 400 | -
   cr. Retained earnings (additional net income if FIFO had been used) | - | 240
   cr. Income tax payable ($400 x 40%) | - | 160
-
+```
 
 # Modified retrospective approach
 
@@ -75,8 +78,10 @@ Universal semiconductors
 5. No account balances are adjusted
 6. Cumulative net effect is not reported in current income
 
+```
 dr. Warranty expense | 9 | -
   cr. Warranty liability | - | 9
+```
 
 The after tax effect of the change in estimate is $1.8m (`$300m * (3%-2%) = 3m` less `40% of $3m`)
 
@@ -102,14 +107,14 @@ Even though the company is changing its depreciation method, it is doing so to r
 Universal Semiconducts switched from the Sum of Years Digits depreciation to straight line depreciation in 2018. The change affects its precision equipment purchased at the beginning of 2016 at a cost of $63m. The machinery has an expected useful life of five years and a estimated residual value of $3m.
 
 Depreciation prior to change.
-
+```
 SYD Depreciation | $ in millions.
 2016 depreciation | $20 | ($60 x 5/15)
 2017 depreciation | $16 | ($60 x 4/15)
   Accumulated depreciation | $36
-
+```
 A change in depreciation method is considered a change in accounting estimate resulting from a cahnge in accounting principle. So the compaony reports the change prospectively, previous financial statements are not revised. The undepreciated cost remaining at the time of the change is depreciated straight-line over the remaining useful life.
-
+```
 Calculation of straight-line depreciation | $ in millions
 Asset's cost | $63
 Accumulated depreciation to date (calculated above) | (36)
@@ -118,11 +123,12 @@ Estimated residual value | (3)
 To be depreciated over remaining 3 years | $24
 - | 3 Years
 Annual straight-line depreciation 2018-2020 | $8
-
+```
+```
 Adjusting entry ( 2018, 2019, and 2020 depreciation) | $ in millions
 Depreciation expense (calculated above) | 8 | -
   accumulated depreciation | - | 8
-
+```
 # Illustration 20-9 Change in Depreciation Method for Newly Acquired Assets
 
 It's not easy to distinguish between a change in principle and a change in estimate
@@ -133,4 +139,6 @@ For example...
 If a company begins to capitalize rather than expense the cost of tools because their befeits beyond one year become apparent.
 ```
 
-The change could be construed as either a change in principle or a cahnge in the estimated life of the asset. 
+The change could be construed as either a change in principle or a cahnge in the estimated life of the asset.
+
+When the distinction is not possible, the change should be terated as a change in estimate. The treatment is appropriate when both a change in accounting principle and a change in accounting estimate occur simultaneously.
