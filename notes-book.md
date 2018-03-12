@@ -20,11 +20,12 @@ December 31, 2018 | - | - | $1,357
 ```
 
 # Adjust accoaunts for the change
-
+```
 $ in millions | 2017 | 2016 | Cumulative difference pre-2016 | Cumulative difference pre-2018
 Cost of Goods Sold (LIFO) | 420 | 405 | 1,000 | -
 Cost of Goods Sold (FIFO) | 365 | 360 | 7000 | -
   Difference | 55 | 45 | 300 | 400
+```
 
 The $400 million cumulative difference in CGS is also the difference between the balance in inventory and what that balance would have been if the FIFO method, rather than LIFO, had been used before 2018. Inventory must be increased to that amount.
 Retained earnings must be increased by 60% of that amount due to income taxes.
@@ -142,3 +143,34 @@ If a company begins to capitalize rather than expense the cost of tools because 
 The change could be construed as either a change in principle or a cahnge in the estimated life of the asset.
 
 When the distinction is not possible, the change should be terated as a change in estimate. The treatment is appropriate when both a change in accounting principle and a change in accounting estimate occur simultaneously.
+
+
+# Change in reporting entity.
+
+A reporting entity can be `a single company` or it can be a `group of companies that report a single set of financial statements`.
+
+A change in reporting entity occurs as a result of
+
+1. Presenting consolidated financial statements in place of statements of individual companies
+2. Changing specific compaonies that constitute the group for which consolidated or combined statements are prepared
+3. Or a result of changes in accounting rules.
+4. When a company acquires another one.
+
+Acquiring companies are required to provide a footnote that presents key financialstatement information as if the acquisition had occurred before the beginning of the previous year. At a minimum, the supplemental pro forma information should display
+
+1. Revenue
+2. Income from continuing operations
+3. Net income
+4. Earnings per share
+
+A change in reporting entity is reported by recasting all pregvious period's financial statements as if the new reporting entity existed in those periods. In the first set of financial statements after the change, a disclosure note should describe the nature of the change and the reason that it occurred. Also the effect of the change on...
+
+1. Net income
+2. Income from continuing operations
+3. Related per share amounts
+
+Should be indicated for all periods presented. These disclosures aren't necessary in subsequent financial statements.
+
+# Errors
+
+The correction of an error is not actually a accounting change but is accounted for similarly. 
