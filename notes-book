@@ -1,0 +1,27 @@
+If retained earnings is one of the accounts that requires adjustment due to a change in accounting principle (and it usually is), we must adjust the beginning balance of the retained earnings account for the earliest period reported in the comparative statements of shareholders equity.
+
+The amount of the revision is the cumulative effect of the change of years prior to that date.
+
+Illustration 20-3B
+
+| - | - | $ in millions | Common Stock | APIC | Retained Earnings | Total S/E
+
+Jan 1, 2016 | - | - | $880
+  net income | - | - | $186
+  dividends | - | - | $(40)
+December 31, 2016 | - | - | $1,026
+  net income (revised to FIFO) | - | - | $195
+  dividends | - | - | $(40)
+December 31, 2017 | - | - | $1,187
+  net income (using FIFO) | - | - | $210
+  dividends | - | - | $(40)
+December 31, 2018 | - | - | $1,357
+
+# Adjust accoaunts for the change
+
+$ in millions | 2017 | 2016 | Cumulative difference pre-2016 | Cumulative difference pre-2018
+Cost of Goods Sold (LIFO) | 420 | 405 | 1,000 | -
+Cost of Goods Sold (FIFO) | 365 | 360 | 7000 | -
+  Difference | 55 | 45 | 300 | 400
+
+The $400 million cumulative difference is 
