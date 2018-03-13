@@ -173,4 +173,144 @@ Should be indicated for all periods presented. These disclosures aren't necessar
 
 # Errors
 
-The correction of an error is not actually a accounting change but is accounted for similarly. 
+The correction of an error is not actually a accounting change but is accounted for similarly. It is accounted for `retrospectively` like most changes sin accounting principles.
+They are retrospectively restated to reflect the correction. Any account balances that are incorrect as a result of the error are corrected by journal entry.
+
+If retained earnings is one of the incorrect amounts, the correctioin is reported as a prior period adjustment tok the beginning balance in a `statement of shareholders' equity`. A disclosure note is needed.
+
+
+# Retrospective
+
+1. Most changesd in accounting principle
+2. Change ijn reporting entity
+3. Corrections of Errors
+
+# Prospective
+
+1. Changes in estimate including changes in depreciation method
+2. Changes in accounting principle when retrospective application isimpractical
+3. Changes in accounting principle when prospective application is mandated
+
+![](accounting-changes-and-errors.png)
+
+# Correction of accounting errors
+
+1. A journal entry is made to correct any account balances that are incorrect as a result of the error
+2. Retrospectively restate financial statements that were incorrect as a result of the error
+3. Report as a prior period of adjustment to the beginning balance in a statement of shareholder's equity if R/E is one of the accounts incorrect as a result of the error
+4. Disclosure note should describe the nature of the error and the impact of its correction on net Income
+
+# Prior period adjustment
+
+`Refers to an addition to OR a reduction in the beginning retained earnijngs balance in a statement of shareholders' equity or retained earnings`
+
+When it's; discovered that the ending balance of R/E in the period prior to the discovery of an erorr was incorrect as a result oif that error, the balance must be corrected when it appears as the beginning balance the following year.
+
+# Statements of retained Earnings
+# For the years ended December 31, 2017 and 2016
+
+Item | 2017 | 2016
+Balance at beginning of year | $600,000 | $450,000
+Net Income | $400,000 | $350,000
+Less: (Dividends) | (200,000) | (200,000)
+Balance at end ofi year | 800,000 | 600,000
+
+# If the error in 2016 caused that year's icome to be overstated by $20,000
+
+# Statements of retained earnings
+# For the years ended December 31, 2018 and 2017
+
+Item | 2018 | 2017
+Balance at beginning of year | 780,000 | 600,000
+Prior period adjustment | - | (20,000)
+Corrected balance | - | 580,000
+Net income | 500,000 | 400,000
+Less: (Dividends) | (200,000) | (200,000)
+Balance at end of year | 1,080,000 | 780,000
+
+The prior period adjustment is applied to beginning retained earnings for the year `FOLLOWING` the error, or for the `EARLIEST` year being reported in the comparative financial statemeqnts when the error occurs `PRIOR` to  the `EARLIEST YEAR` presented.
+
+
+# Error discovered in the same reporting period that it occurred
+
+GH Little, Inc. paid $3m for replacement computers and recorded the expenditure as maintenance expense. The error was discovered a week later
+
+To reverse errorneous entry
+dr. cash  3
+  cr. maintenance 3
+
+To record correct entry
+dr. equipment 3
+  cr. cash  3
+
+
+# Error affecting previous financial statements but not net income
+
+MDS Transportation incorrectly recorde da $2m note recievable as accounts receivable. The error was disocvered a year later.
+
+**Step 1**
+
+To correct incorrect amounts
+dr. notes receivable  2
+  cr. accounts receivable 2
+
+**Step 2**
+
+When reported for comparatative purposes in the current year's annual report, last year's balnace sheet would be restated toi report the note as it should have been reported last year
+
+**Step 3**
+
+Since last year's net income was not affected by the error, the balance in retained earnings was not incorrect. So no prior period adjustment to that account is necessary.
+
+**Step 4**
+
+A Disclosure note would describe the nature of the error, but there would be no impact oin net income, income from continuing operations and earnings per share to report
+
+# Error affecting a prior year's netincome
+
+In 2018, internal auditors discovered that Seidman Distribution, Inc. had debited an expense account for the $7m cost of resorting equipment fpurchased at the beginning of 20916. The equipment's useful life was expectged to be five years with no residual value. Straight line depreciation is used by seidman
+
+# Correct (Should have been recorded)
+
+2016
+dr. equipment 70
+  cr. cash  70
+
+# Incorret (as recorded)
+
+dr. expenses 70
+  cr. cash 70
+
+# Correct
+
+expense 14
+  accumulated depreciation 14
+
+# incorrect
+
+depreciation omitted
+
+# correct
+2017
+Expense 14
+  accumulated depreciation 14
+
+# incorrect
+
+Dpereciation omitted
+
+During the two-year period
+
+Depreciation expense was understated by $2.8m, but otiher expenses were overstated by $7m, so net income during the period was understated by $4.2m. This means retained earnings is currently understated by that amount.
+
+Accumulated depreciation is undersstated by $2.8m
+
+**Step 1**
+
+# To correct incorrect amounts
+
+Equipment 70
+  Accumulated Depreciation 2.8
+  Retained earnings 4.2
+
+# Illustration: 20-18 Error Affecting net income Inventory misstated
