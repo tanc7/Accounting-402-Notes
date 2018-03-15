@@ -164,3 +164,109 @@ assets | UNDER | CORRECT
 Liabilities
 equity | UNDER | CORRECT
 ```
+
+
+Revenues
+```
+Beginning Inventory
++ Purchases
+= Goods Available for Sale
+- Ending Inventory
+- Cost of Goods Sold
+= Gross Profit
+- Expenses
+= Net Income
+```
+
+20x2 Correcting entry
+```
+merchandise inventory 10,000
+  retained earnings 10,000
+```
+
+# Dean Company Example
+```
+OVER expenses UNDER
+UNDER Net income OVER
+UNDER assets UNDER
+UNDER equity UNDER
+```
+
+balance sheet
+```
+PP&E
+  Machinery
+  Less: Accumulated Depreciation
+```
+
+20x2 Correcting entry
+```
+machinery 75,000
+  accumulated depreciation 7,000
+  retained earnings 68,000
+```
+
+20x3 correcting entry
+```
+machinery 75,000
+  accumulated depreciation 14,000
+  retained earnings 61,000
+```
+
+inventory at 31 20x0 was understaed by 5,000
+
+```
+item | x0 | x1 | x2 | x3
+Net income as reported | 40,000 | 65,000 | 50,000 | 75,000
+a. Inventory understated | 5,000 | (5,000)
+b. accrued wages unrecorded | (2,500) | 2,500
+Equipment expensed | - | 50,000
+  | - | - | (10,000) | (10,000) | (10,000)
+
+  Event D
+
+inventory Overstated (12,000) | 12,000
+
+  Event E
+
+Interest revenue unrecorded | - | 7,500 | (7,500)
+
+  Event F
+
+Insurance Policy Expensed | - | 6,000
+same | - | (2000) | (2000)
+
+  Event G
+
+inventory overstated | - | - | (8,000) | 8,000
+
+accrued wages unrecorded | - | - | - | (5,000)
+
+Unearned Rent | - | - | - | (6,000)
+
+```
+
+
+Corrected net income
+
+`42,500 98,000 40,500 60,000`
+
+Correcting entries
+```
+Equipment 50,000
+  accumulated depreciation 30,0000
+  retained earnijngs 20,000
+```
+Event F
+```
+prepaid insurance 2,000
+  retained earnings 2,000
+  ```
+```
+retained earnings 5,000
+  wages payable 5,000
+```
+```
+retained earnings 6,000
+  unearned rent revenue6,000
+```
