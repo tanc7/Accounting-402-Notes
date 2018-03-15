@@ -156,11 +156,11 @@ cgs | OVER | UNDER
 
 Revenues
 cgs | OVER | UNDER
-gross profit | UNDER
+gross profit | UNDER | OVER
 Expenses
-net Income | UNDER
+net Income | UNDER | OVER
 
-assets | UNDER
+assets | UNDER | CORRECT
 Liabilities
-equity | UNDER
+equity | UNDER | CORRECT
 ```
