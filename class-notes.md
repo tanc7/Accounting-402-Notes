@@ -8,11 +8,11 @@ Errors in financial statements result from
 
 
 # Example
-
+```
 Equipment 1,000,000
 Life 5 years
 S/L 200,000 / year
-
+```
 
 If 50 years istead, then 20,000 / year, looks better (misuse of facts)
 
@@ -56,17 +56,17 @@ Errors that correct themselves in two consecutive accounting periods
 2. year-end accruals
 
 2018
-
+```
 wages expense 50,000
 wages payable 2,000
   cash 52,000
-
+```
 
 autocorrected
-
+```
 wages expense 52,000
   cash 52,000
-
+```
 counterbalancing erros may require a correcting entry
 
 # Noncounterbalancing errors
@@ -77,14 +77,14 @@ Errors that do not correct themselves in two consecutive accounting periods. But
 2. Failure to record depreciation
 
 generally require a correcting entry
-
+```
 200,000
 (8,000) Prior period adjustment from correction of an error
 192,000
 30,000
 (2,000)
 220,000
-
+```
 # Example 1 Adams Company
 
 20x1
