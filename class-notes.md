@@ -116,7 +116,7 @@ Liabilities Correct
 Equity Correct
 
 Example 1
-
+```
 20x2 Correcting Entry (20x1 books closed)
 
 retained earnings 20,000
@@ -125,9 +125,9 @@ retained earnings 20,000
 20x3
 
 No entry needed - the error has counterbalanced
-
+```
 # Example 2 Jackson Company
-
+```
 20x1
 Under Expenses Over
 Over Net Income Under
@@ -138,5 +138,29 @@ Equity Over Correct
 20x2 correcting entry
 Retained earnings 30,000
   Salaries payable 30,000
-
+```
 # Example 3, Manson Company
+```
+inventory 10,000
+  cost of goods sold 10,000
+```
+
+
+**item | x1 | x2**
+```
+bi | - | UNDER
+purchases
+gas | - | UNDER
+ei | UNDER
+cgs | OVER | UNDER
+
+Revenues
+cgs | OVER | UNDER
+gross profit | UNDER
+Expenses
+net Income | UNDER
+
+assets | UNDER
+Liabilities
+equity | UNDER
+```
